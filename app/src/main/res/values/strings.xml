@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AJ Calculator</string>
+    <string name="AJ_num">12345</string>
+    <string name="AJ_Zero">0</string>
+    <string name="AJ_one">1</string>
+    <string name="AJ_two">2</string>
+    <string name="AJ_three">3</string>
+    <string name="AJ_four">4</string>
+    <string name="AJ_five">5</string>
+    <string name="AJ_six">6</string>
+    <string name="AJ_seven">7</string>
+    <string name="AJ_eight">8</string>
+    <string name="AJ_nine">9</string>
+    <string name="AJ_Divide">/</string>
+    <string name="AJ_Multiply">*</string>
+    <string name="AJ_plus">+</string>
+    <string name="AJ_Minus">-</string>
+    <string name="AJ_Equal">=</string>
+    <string name="AJ_Clear">CLR</string>
+    <string name="AJ_Dot">.</string>
+    <string name="del">DEL</string>
+
+
+</resources>
